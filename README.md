@@ -2,14 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Frontend Developer</h2>
 
----
-
 <h3 align="center">About me</h3>
 
-- #### Пишу чистый и понятный код
-- #### :fire: Стремлюсь к работе с сложными и инетерсными проектами
-- #### :woman_technologist: Безболезненно внедряюсь в проекты
-- #### Осваиваю новые технологии
+- ####  :writing_hand:Пишу чистый и понятный код
+- #### :fire:Стремлюсь к работе с сложными и инетерсными проектами
+- ####  :office:Безболезненно внедряюсь в проекты
+- #### :man_technologist:Осваиваю новые технологии
 
 ---
 
