@@ -32,7 +32,7 @@
 
 <h3 align="center">My statistics</h3>
 
-<div style= "display:flex; justify-content: center; align-items: center">
+<div display="flex"; justify-content="center"; align-items="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanfedoruschenko&theme=dracula&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
