@@ -13,7 +13,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-<div style= "display:flex; justify-content: center; align-items: center">
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-708090?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-708090?style=for-the-badge&logo=React)
@@ -32,12 +32,12 @@
 
 <h3 align="center">My statistics</h3>
 
-<div style= "display:flex; justify-conten">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanfedoruschenko&theme=dracula&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<div style= "display:flex; justify-content: center; align-items: center">
+<div align="center">
 
 [![codewars](https://www.codewars.com/users/ivanfedoruschenko/badges/large)](https://www.codewars.com/users/ivanfedoruschenko)
 
@@ -46,7 +46,7 @@
 ---
 
 <h3 align="center">Follow me</h3>
-<div style= "display:flex; justify-content: center; align-items: center">
+<div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-708090?style=for-the-badge&logo=Telegram)](https://t.me/ivanfedorushchenko)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-708090?style=for-the-badge&logo=VK)](https://vk.com/ivan050994)
